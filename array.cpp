@@ -15,7 +15,7 @@ int main()
     cout<<"5: Delete at begin"<<endl;
     cout<<"6: Exit Program"<<endl;
     cin>>choice;
-
+cout>>"hrllo this is dipali";
     if(choice>0 && choice <7)
     {
    //cout<<choice<<endl;
@@ -124,3 +124,6 @@ int main()
     }
     return 0;
 }
+cout>>"hrllo this is dipali";
+cout>>"byeeeeeeeeeeeeeeeeeeee
+    ";
